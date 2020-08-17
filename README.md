@@ -2,7 +2,7 @@
   <img src="https://i.pinimg.com/originals/54/19/02/541902f716f7edd427cfa5a9e1230be6.png">  
 </p>
 
-<h1 align="center">IP Location Generator - OnlineHacking</h1>
+<h1 align="center">GitHub Information Gathering - OnlineHacking</h1>
 <p align="center">
   Location Generator 
 </p>
@@ -19,11 +19,11 @@ Telegram: <a href="https://t.me/OnlineHacking">@OnlineHacking</a>
 ![unnamed (2)](https://github.com/OnlineHacKing/GINF/blob/master/1.png)
 
 
-### ☢️ PREREQUISITES
+### ☢️ REREQUISITES
 
 * php
 
-### 🌀 IpDorp is Available for
+### 🌀 GINF is Available for
 
 * Termux
 * Linux
