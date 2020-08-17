@@ -1,10 +1,10 @@
 #!/usr/bin/env php
 <?php
 /* GINF - GitHub Information Gathering
- * author: DedSecTL
- * telegram: @dtlily
+ * author: Suman
+ * telegram: @OnlineHacking
  * line: dtl.lily
- * team: BlackHole Security
+ * team: Online Hacking
  */
 $red = "\033[1;31m";
 $yellow = "\033[1;33m";
@@ -22,11 +22,11 @@ $about = "$white
 About
 -----
 GINF - Github Information Gathering
-Author : DedSecTL <dtlily>
+Author : Suman <dtlily>
 Version : 1.0
-Team : BlackHole Security
-Date : Fri Aug 17 07:48:19 2018
-Telegram : @dtlily
+Team : Online Hacking
+Date : Fri Aug 17 07:48:19 2020
+Telegram : @OnlineHacking
 Line : dtl.lily$normal\n\n";
 $help = "$white
 Command         Description
