@@ -30,7 +30,7 @@ Telegram: <a href="https://t.me/OnlineHacking">@OnlineHacking</a>
 
 # ■□■□■□■□■□■□ Commands □■□■□■□■□■□■
 
-### ☣️ Installation and Usage Guide
+### ☣️ Installation
 ```
 $ apt-get update
 ```
@@ -58,8 +58,23 @@ $ ls
 ```
 $ php ginf.php
 ```
-any problem play YouTube full video 
 
+### ☣️ Usage Guide
+```
+$ help
+```
+```
+$ getuser <username>
+```
+```
+$ getrepos <username>
+```
+```
+$ getfower <username>
+```
+```
+$ getfowin <username>
+```
 
 ### Subscribe our channel on youtube
 https://www.youtube.com/channel/UCwREEQuPIk7EtaRrZBVvDwg?view_as=subscriber&pbjreload=101
