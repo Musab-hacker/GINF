@@ -21,57 +21,44 @@ Telegram: <a href="https://t.me/OnlineHacking">@OnlineHacking</a>
 
 ### ☢️ PREREQUISITES
 
-* python
+* php
 
 ### 🌀 IpDorp is Available for
 
 * Termux
+* Linux
 
 # ■□■□■□■□■□■□ Commands □■□■□■□■□■□■
 
 ### ☣️ Installation and Usage Guide
 ```
-$ apt-get update -y
+$ apt-get update
 ```
 ```
-$ apt-get upgrade -y
+$ apt-get upgrade
 ```
 ```
-$ pkg install python -y 
+$ pkg install git
 ```
 ```
-$ pkg install python2 -y
+$ apt-get install git php
 ```
 ```
-$ pkg install git -y
-```
-```
-$ pip install requests
+$ git clone https://github.com/OnlineHacKing/GINF.git
 ```
 ```
 $ ls
 ```
 ```
-$ git clone https://github.com/OnlineHacKing/IpDorp.git
+$ cd GINF
 ```
 ```
 $ ls
 ```
 ```
-$ cd IpDorp
+$ php ginf.php
 ```
-```
-$ ls
-```
-```
-$ python IpDorp.py -v (your victim ip here)
-```
-ex:- python ipdrone.py -v 127.0,0.1
-
-Hurray... you got his location with some more information
-
-### 📱SCREENSHOT 📲
-![Shot](https://i.pinimg.com/originals/1a/08/7c/1a087cada9a414c70a360ea5cfbb9140.png)
+any problem play YouTube full video 
 
 
 ### Subscribe our channel on youtube
