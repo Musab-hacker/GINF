@@ -32,48 +32,48 @@ Telegram: <a href="https://t.me/OnlineHacking">@OnlineHacking</a>
 
 ### ☣️ Installation
 ```
-$ apt-get update
+apt-get update
 ```
 ```
-$ apt-get upgrade
+apt-get upgrade
 ```
 ```
-$ pkg install git
+pkg install git
 ```
 ```
-$ apt-get install git php
+apt-get install git php
 ```
 ```
-$ git clone https://github.com/OnlineHacKing/GINF.git
+git clone https://github.com/OnlineHacKing/GINF.git
 ```
 ```
-$ ls
+ls
 ```
 ```
-$ cd GINF
+cd GINF
 ```
 ```
-$ ls
+ls
 ```
 ```
-$ php ginf.php
+php ginf.php
 ```
 
 ### ☣️ Usage Guide
 ```
-$ help
+help
 ```
 ```
-$ getuser <username>
+getuser <username>
 ```
 ```
-$ getrepos <username>
+getrepos <username>
 ```
 ```
-$ getfower <username>
+getfower <username>
 ```
 ```
-$ getfowin <username>
+getfowin <username>
 ```
 
 ### Subscribe our channel on youtube
